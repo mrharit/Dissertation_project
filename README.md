@@ -1,6 +1,4 @@
-# Dissertaion_project
-Spotify HIT Prediction, Dissertation project(Machine Learning)
-# 🎵 Spotify HIT Prediction Project
+# 🎵 Spotify HIT Prediction Project (Machine Learning)
 
 ## 📌 **Description**
 This project aims to predict whether a song will become a hit on Spotify by analyzing its audio features. By leveraging **machine learning models**, the project classifies songs as either hits or non-hits based on characteristics such as **danceability, energy, tempo, loudness**, and more. The goal is to provide insights into the factors influencing a song's popularity and develop a predictive model to anticipate future hits.
